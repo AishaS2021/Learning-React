@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+
+.header1{ 
+  font-size: 6w;
+  background-color: teal;
+  color: rebeccapurple;
+  width : 24vw;
+  padding: 20vw;
+}
+
+body {
+  background-color: teal;
+}
